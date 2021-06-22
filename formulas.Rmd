@@ -1,0 +1,24 @@
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+$\text{Pr}(PTS = 27) = \frac{\text{Observed 27-Point Games}}{\text{Total Observed Games}} = \frac{72}{1310} = 0.05496$
+
+$\text{Pr}(TRB = 7) = \frac{\text{Observed 7-Rebound Games}}{\text{Total Observed Games}} = \frac{184}{1310} = 0.140458$
+
+$\text{Pr}(AST = 7) = \frac{\text{Observed 7-Assist Games}}{\text{Total Observed Games}} = \frac{191}{1310} = 0.14580$
+
+$\text{Pr}(PTS = 27, TRB = 7, AST = 7) = (0.05496) \times (0.140458) \times (0.14580) = 0.001126$
+
+$(0.9988744)^{1310} = 0.228706$
+
+
+
+
+
+
+
+
+
+
